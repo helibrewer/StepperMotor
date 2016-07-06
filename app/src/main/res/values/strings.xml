@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StepperMotor</string>
+    <string name="go">GO</string>
+    <string name="clockwise">Clockwise</string>
+    <string name="ccw">Counter-Clockwise</string>
+    <string name="degrees">Enter Degrees (positive value):   </string>
+</resources>
